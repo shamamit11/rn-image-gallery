@@ -1,6 +1,6 @@
 {
-  "name": "rn-image-gallery",
-  "version": "1.0.0",
+  "name": "shamamit-rn-image-gallery",
+  "version": "1.0.1",
   "access": "public",
   "description": "React Native Image Gallery with Thumbnails and Image Description",
   "main": "lib/commonjs/index.js",
@@ -22,10 +22,7 @@
     "photo",
     "photo-gallery"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shamamit11/react-native-image-gallery.git"
-  },
+  "repository": "git+https://github.com/shamamit11/react-native-image-gallery.git",
   "author": "Amit Sharma",
   "license": "MIT",
   "bugs": {
@@ -89,7 +86,5 @@
       "typescript"
     ]
   },
-  "dependencies": {
-    "@expo/vector-icons": "^13.0.0"
-  }
+  "private": false
 }
